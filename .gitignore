@@ -1,0 +1,4 @@
+.data
+auto_gpt_workspace
+logs
+.env
